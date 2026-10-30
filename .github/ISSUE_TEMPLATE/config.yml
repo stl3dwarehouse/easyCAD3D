@@ -1,5 +1,14 @@
 blank_issues_enabled: false
 contact_links:
+  - name: Questions and Help forum
+    url: https://github.com/stl3dwarehouse/easyCAD3D/discussions/categories/questions-and-help
+    about: Ask the easyCAD3D community how to use a tool or solve a modeling problem.
+  - name: Ideas and Suggestions forum
+    url: https://github.com/stl3dwarehouse/easyCAD3D/discussions/categories/ideas-and-suggestions
+    about: Discuss improvements and vote for ideas that would help your workflow.
+  - name: Show and tell
+    url: https://github.com/stl3dwarehouse/easyCAD3D/discussions/categories/show-and-tell
+    about: Share your easyCAD3D designs, prints, lithophanes, and tips.
   - name: STL 3D Warehouse
     url: https://www.stl3dwarehouse.com
     about: Product information and contact options for account, billing, or activation support.
