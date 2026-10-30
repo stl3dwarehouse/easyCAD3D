@@ -2,13 +2,14 @@
 
 Thank you for helping improve easyCAD3D. You do not need to write code to contribute.
 
-## Choose the right form
+## Choose where to post
 
-- **Bug report:** an existing feature produces an error or does not behave as expected.
-- **Feature suggestion:** a new capability or an improvement to an existing workflow.
-- **Help question:** you need help finding or using a feature.
+- **[Bug report](https://github.com/stl3dwarehouse/easyCAD3D/issues/new?template=01-bug-report.yml):** an existing feature produces an error or does not behave as expected.
+- **[Ideas and Suggestions](https://github.com/stl3dwarehouse/easyCAD3D/discussions/categories/ideas-and-suggestions):** discuss a new capability or an improvement to an existing workflow.
+- **[Questions and Help](https://github.com/stl3dwarehouse/easyCAD3D/discussions/categories/questions-and-help):** get help finding or using a feature. Mark the answer when your question is solved.
+- **[Show and tell](https://github.com/stl3dwarehouse/easyCAD3D/discussions/categories/show-and-tell):** share designs, prints, and helpful workflows.
 
-Open [New issue](https://github.com/stl3dwarehouse/easyCAD3D/issues/new/choose) and choose a form.
+The existing detailed suggestion and help forms are also available under [New issue](https://github.com/stl3dwarehouse/easyCAD3D/issues/new/choose). You do not need to post the same topic in both places.
 
 ## Make a bug reproducible
 
@@ -22,7 +23,7 @@ Describe the task you are trying to complete, what slows you down, and the chang
 
 ## Continue an existing conversation
 
-Search both open and closed issues before posting. Add a 👍 reaction to support an existing suggestion. Comment when you have new details, a reproducible example, or a useful workaround.
+Search Discussions and both open and closed issues before posting. Add a 👍 reaction to support an existing suggestion. Comment when you have new details, a reproducible example, or a useful workaround.
 
 ## How feedback is handled
 
