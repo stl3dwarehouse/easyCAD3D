@@ -1,0 +1,27 @@
+name: Ask for help
+description: Ask a question about using easyCAD3D.
+title: "[Help] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ask a question about using easyCAD3D. No programming experience is needed.
+        You can also find tool guides inside easyCAD3D under File → Documentation.
+        For account, billing, or activation matters, use the contact options at www.stl3dwarehouse.com.
+  - type: input
+    id: app-version
+    attributes:
+      label: easyCAD3D version
+      description: If you can open the application, enter the version it shows.
+  - type: textarea
+    id: question
+    attributes:
+      label: What would you like help with?
+      description: Tell us the tool you are using and what you want to accomplish.
+    validations:
+      required: true
+  - type: textarea
+    id: tried
+    attributes:
+      label: What have you tried?
+      description: Optional. Include screenshots or details that would help someone answer.
