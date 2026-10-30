@@ -4,22 +4,26 @@ Welcome to the easyCAD3D community, maintained by **STL 3D Warehouse**.
 
 Help shape easyCAD3D by reporting problems, suggesting improvements, asking questions, and sharing what works for you. **No programming experience is needed.**
 
+Join the **[Discussions forum](https://github.com/stl3dwarehouse/easyCAD3D/discussions)** and read the pinned **[welcome guide](https://github.com/stl3dwarehouse/easyCAD3D/discussions/1)**.
+
 ## What would you like to do?
 
 | I want to… | Start here |
 | --- | --- |
 | Report something that is broken | [Report a bug](https://github.com/stl3dwarehouse/easyCAD3D/issues/new?template=01-bug-report.yml) |
-| Suggest a new tool or improvement | [Suggest an improvement](https://github.com/stl3dwarehouse/easyCAD3D/issues/new?template=02-feature-suggestion.yml) |
-| Ask how to use easyCAD3D | [Ask for help](https://github.com/stl3dwarehouse/easyCAD3D/issues/new?template=03-help-question.yml) |
-| See existing reports and suggestions | [Browse community feedback](https://github.com/stl3dwarehouse/easyCAD3D/issues) |
+| Suggest a new tool or improvement | [Suggest an improvement](https://github.com/stl3dwarehouse/easyCAD3D/discussions/categories/ideas-and-suggestions) |
+| Ask how to use easyCAD3D | [Ask for help](https://github.com/stl3dwarehouse/easyCAD3D/discussions/categories/questions-and-help) |
+| Share a project, print, or useful workflow | [Show and tell](https://github.com/stl3dwarehouse/easyCAD3D/discussions/categories/show-and-tell) |
+| Read product news | [Announcements](https://github.com/stl3dwarehouse/easyCAD3D/discussions/categories/announcements) |
+| See tracked reports and suggestions | [Browse community feedback](https://github.com/stl3dwarehouse/easyCAD3D/issues) |
 
-GitHub calls each report, suggestion, or question an **issue**. You can read the community without signing in; sign in to your GitHub account to post or reply.
+Use **Discussions** for conversations, ideas, and help. Use **Issues** for bug reports and detailed feedback we can track. The existing suggestion and help forms remain available under [New issue](https://github.com/stl3dwarehouse/easyCAD3D/issues/new/choose). You can read the community without signing in; sign in to your GitHub account to post or reply.
 
 ## Before posting
 
-1. Search [existing feedback](https://github.com/stl3dwarehouse/easyCAD3D/issues?q=is%3Aissue) to see whether someone has already posted the same topic.
+1. Search [Discussions](https://github.com/stl3dwarehouse/easyCAD3D/discussions) and [existing issues](https://github.com/stl3dwarehouse/easyCAD3D/issues?q=is%3Aissue) to see whether someone has already posted the same topic.
 2. If there is a match, add useful details or a 👍 reaction to that conversation.
-3. Otherwise, choose one of the forms above. Keep each report focused on one topic.
+3. Otherwise, choose the appropriate category or bug-report form above. Keep each report focused on one topic.
 
 For bugs, include your easyCAD3D version, the tool or mode involved, what you expected, what happened, and steps to reproduce it. Screenshots help. If a sample project is needed, put it in a ZIP before attaching it.
 
@@ -34,6 +38,8 @@ Visit **[STL 3D Warehouse](https://www.stl3dwarehouse.com)** for product informa
 This repository hosts community feedback and support information. Application source code and paid downloads are maintained separately.
 
 ## Following progress
+
+Watch [Announcements](https://github.com/stl3dwarehouse/easyCAD3D/discussions/categories/announcements) for updates. In Questions and Help, mark the reply that solves your question as the answer.
 
 Use the [open issues](https://github.com/stl3dwarehouse/easyCAD3D/issues) list to follow active conversations and [closed issues](https://github.com/stl3dwarehouse/easyCAD3D/issues?q=is%3Aissue%20is%3Aclosed) to review completed reports. A closed suggestion can mean completed, answered, duplicated, or declined; read the closing response for the outcome.
 
